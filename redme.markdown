@@ -1,7 +1,7 @@
 # 动画的渐变页面/Smooth Page
 ## 学习中的一个小DEMO
 
-##Dependencies
+## Dependencies
 [![N|Solid](https://itmeo.com/public/small_bar_powered_by_itmeo3.png)](https://itmeo.com)
 
 [![N|Solid](https://webgradients.com/img/other/logos/webgradients_logo.png)](https://webgradients.com/)
